@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html>
+<head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648103018525119"
+     crossorigin="anonymous"></script>
+</head>
 <body>
 
 <h1>This is heading 1</h1>
